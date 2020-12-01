@@ -1,0 +1,6 @@
+nota1 = input('Informe a nota do 1 Bimestre: ')
+nota2 = input('Informe a nota do 2 Bimestre: ')
+nota3 = input('Informe a nota do 3 Bimestre: ')
+nota4 = input('Informe a nota do 4 Bimestre: ')
+media = ((nota1 + nota2 + nota3 + nota4)+4)
+print('A média final é ',media)
